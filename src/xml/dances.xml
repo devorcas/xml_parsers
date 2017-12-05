@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<dances
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='Dances.xsd'>
+    <dance id="d_0">
+        <type>ballroom</type>
+        <scene>TV studio</scene>
+        <numberOfDancers>mass</numberOfDancers>
+        <music>live</music>
+        <dancers>
+            <name>Master ballroom</name>
+            <age>25</age>
+            <experience>15</experience>
+        </dancers>
+        <number>0</number>
+    </dance>
+    <dance id="d_1">
+        <type>folk</type>
+        <scene>outdoor playground</scene>
+        <numberOfDancers>twin</numberOfDancers>
+        <music>minus</music>
+        <dancers>
+            <name>Gopak</name>
+            <age>30</age>
+            <experience>22</experience>
+        </dancers>
+        <number>1</number>
+    </dance>
+    <dance id="d_2">
+        <type>pop</type>
+        <scene>stadium</scene>
+        <numberOfDancers>mass</numberOfDancers>
+        <music>live</music>
+        <dancers>
+            <name>Hip-hop Monsters</name>
+            <age>20</age>
+            <experience>10</experience>
+        </dancers>
+        <number>3</number>
+    </dance>
+    <dance id="d_3">
+        <type>folk</type>
+        <scene>outdoor playground</scene>
+        <numberOfDancers>twin</numberOfDancers>
+        <music>minus</music>
+        <dancers>
+            <name>Granada</name>
+            <age>40</age>
+            <experience>30</experience>
+        </dancers>
+        <number>2</number>
+    </dance>
+
+</dances>
